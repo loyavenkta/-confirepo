@@ -1,1 +1,3 @@
-"Hello Welcome to dev.ymal"
+user:
+  username: dev
+  password: password
